@@ -1,5 +1,5 @@
 # Jarvis
-An Implementation of the Jarvis March Algorithm to complete a convex hull.
+An Implementation of the Jarvis March Algorithm to complete a convex hull and JUnit testing of the code.
 
 :triangular_ruler::triangular_ruler::triangular_ruler::triangular_ruler:
 
